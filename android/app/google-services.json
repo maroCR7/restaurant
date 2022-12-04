@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927312634524",
+    "project_id": "restaurant-task-ffda0",
+    "storage_bucket": "restaurant-task-ffda0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927312634524:android:0dc9be09e7ef5315500359",
+        "android_client_info": {
+          "package_name": "com.restaurant.task.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927312634524-u99alqo13tkjug1qtmn3rq6o55t65j0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDms5uBRj6UmOfbFAk3dGPkbeOcvCboV9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927312634524-u99alqo13tkjug1qtmn3rq6o55t65j0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
