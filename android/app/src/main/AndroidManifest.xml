@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.restaurant.task.restaurant">
+    <uses-permission android:name="android.permission.INTERNET" />
    <application
         android:label="restaurant"
         android:name="${applicationName}"
